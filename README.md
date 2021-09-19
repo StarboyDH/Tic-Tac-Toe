@@ -10,3 +10,5 @@ Enter a number from 1 to 9 to choose the field you want, according to the follow
   4  |  5  |  6
  ---------------
   7  |  8  |  9
+ ---------------
+  
